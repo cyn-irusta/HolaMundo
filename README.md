@@ -1,6 +1,7 @@
 
 # Cynthia Irusta
 
+![hello!](https://github.com/cyn-irusta/HolaMundo/blob/main/computadorcyn.png?raw=true)
 
 Soy Selectora de perfiles IT, Autodidacta desde siempre y también estudiante de la Lic en Psicología, hace 2 años atrás tuve mi primer acercamiento con el mundo de la programación aprendiendo el lenguaje Python.
 
